@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Leetcode widget
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user7658we)](https://github.com/KnlnKS/leetcode-stats)
+
 <!--
 **pavlovalor/pavlovalor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
